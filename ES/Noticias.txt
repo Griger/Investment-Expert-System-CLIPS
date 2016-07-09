@@ -1,0 +1,2 @@
+BANKIA buena
+BANKIA mala
